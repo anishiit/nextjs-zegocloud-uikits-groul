@@ -106,7 +106,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Create VideoCall By ZEGOCLOUD UIKits</title>
+        <title>Group VideoCall</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
