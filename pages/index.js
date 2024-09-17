@@ -61,7 +61,7 @@ export default function Home() {
           UIKitsConfig.scenario.mode === "GroupCall"
         ) {
           sharedLinks.push({
-            name: "Personal link",
+            name: "Let your friends in on the fun by sharing this link.",
             url:
               window.location.origin +
               window.location.pathname +
