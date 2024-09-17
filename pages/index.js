@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { useEffect, useRef } from "react";
 import config from "../lib/config";
-import { randomID, getUrlParams, "WelCome TO Our Group Video Call" } from "../lib/util";
+import { randomID, getUrlParams, getRandomName } from "../lib/util";
 
 export default function Home() {
   const root = useRef();
